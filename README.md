@@ -74,3 +74,20 @@ Bacharelado em Sistemas de Informação
 Universidade de Uberaba (UNIUBE)
 
 2026
+## 📊 Resultados
+
+### Evolução da Acurácia
+
+![Acurácia](Acurácia.png)
+
+### Evolução do Erro (Loss)
+
+![Loss](Loss.png)
+
+### Matriz de Confusão
+
+![Matriz](Matriz%20de%20confusão.png)
+
+### Análise de Vigor Vegetativo
+
+![Vigor](Vigor%20Vegetativo.png)
