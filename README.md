@@ -69,15 +69,6 @@ O modelo apresentou excelente desempenho durante a validação:
 * Estimativa de vigor vegetativo
 * Interface de análise utilizando Gradio
 
-## 📁 Arquivos do Projeto
-
-* Projeto_IA_Agricultura_Final.ipynb
-* Modelo de artigo técnico-científico final.pdf
-* Acurácia.png
-* Loss.png
-* Matriz de confusão.png
-* Vigor Vegetativo.png
-
 ## 👨‍🎓 Autor
 
 Kenzo Ramos Otaguiri
