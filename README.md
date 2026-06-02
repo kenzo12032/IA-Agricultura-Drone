@@ -24,6 +24,13 @@ O projeto foi desenvolvido com foco em Agricultura de Precisão, permitindo auto
 * Gradio
 * Google Colab
 
+## 📦 Dataset.zip
+
+O dataset utilizado neste projeto está disponível no próprio repositório através do arquivo:
+
+- archive.zip
+
+Após baixar o repositório, extraia o arquivo ou envie-o para o Google Colab antes da execução do notebook.
 ## 📊 Dataset
 
 O conjunto de dados utilizado possui 1.927 imagens agrícolas divididas em quatro classes:
