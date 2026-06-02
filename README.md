@@ -1,4 +1,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kenzo12032/IA-Agricultura-Drone/blob/main/Projeto_IA_Agricultura_Final.ipynb)
+![GitHub repo size](https://img.shields.io/github/repo-size/kenzo12032/IA-Agricultura-Drone)
+![GitHub last commit](https://img.shields.io/github/last-commit/kenzo12032/IA-Agricultura-Drone)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 
 # 🌱 IA-Agricultura-Drone
 
