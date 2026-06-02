@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kenzo12032/IA-Agricultura-Drone/blob/main/Projeto_IA_Agricultura_Final.ipynb)
+
 # 🌱 IA-Agricultura-Drone
 
 Sistema de Inteligência Artificial para classificação de imagens agrícolas obtidas por drones e estimativa de vigor vegetativo utilizando Redes Neurais Convolucionais (CNN).
